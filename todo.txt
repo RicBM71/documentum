@@ -1,0 +1,3 @@
+1. Verificar en remesas que sea requerido identificador cuando es recibo, permite seguir y no debería
+2. Importar permisos y usuarios de la app de quilates, está más actualizado.
+3. Ojo a los permisos (name/nombre)

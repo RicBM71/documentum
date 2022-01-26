@@ -1,0 +1,1 @@
+<?php symlink('/home/sanaval-tec/docutec/storage/app/public','/home/sanaval-tec/www/storage');
